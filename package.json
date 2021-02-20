@@ -1,5 +1,5 @@
 {
-  "name": "rn-app-upgrade",
+  "name": "rn-app-upgrade-go",
   "version": "2.0.0",
   "description": "react native app upgrade",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/songxiaoliang/react-native-app-upgrade.git"
+    "url": "git+https://github.com/yuanshan/react-native-app-upgrade.git"
   },
   "keywords": [
     "react-native",
@@ -20,9 +20,9 @@
   "author": "songlcy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/songxiaoliang/react-native-app-upgrade/issues"
+    "url": "https://github.com/yuanshan/react-native-app-upgrade/issues"
   },
-  "homepage": "https://github.com/songxiaoliang/react-native-app-upgrade#readme",
+  "homepage": "https://github.com/yuanshan/react-native-app-upgrade#readme",
   "dependencies": {
     "rn-fetch-blob": "^0.12.0"
   }
